@@ -70,6 +70,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone/download source code
+  buat database dengan menjalankan perintah php artisaN migrate di terminal
+  instalasi juga npm install jika belum
+  jalankan perintah php artisan serve dan npm run dev di terminal yang berbeda
 ```
